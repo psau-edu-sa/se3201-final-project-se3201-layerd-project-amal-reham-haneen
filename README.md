@@ -20,7 +20,7 @@
 ## FUNCTIONAL REOUIREMENTS AND NON-FUNCTIONAL REOUIREMENTS
 
 ### FUNCTIONAL REOUIREMENTS
-<img src= "https://user-images.githubusercontent.com/98769338/201519980-3f4c1211-a5da-4026-8342-9c2d0ddb19ff.png" width="300" >
+<img src= "https://user-images.githubusercontent.com/118071141/202722708-8b22c7c6-8f4b-4178-8977-c087c2904eb3.png" width="300" >
 <div>
 <img src= "https://user-images.githubusercontent.com/98769338/201520121-75194379-cd1e-471c-88c5-4f5f5c71a120.png" width="200" >
 <img src= "https://user-images.githubusercontent.com/98769338/201520231-e288fe3a-7ea3-4823-a5c4-1d6f21c044d9.png" width="200" >
